@@ -1,0 +1,173 @@
+*{
+
+}
+h1{
+    margin-left: 650px;
+    color: rgb(6, 98, 204);
+    font-size: 60px;
+    font-weight: bolder;
+}
+li{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+    
+
+}
+ul{
+    display: flex;
+    justify-content:start;
+    margin-left: 550px;
+    
+    
+}
+
+.quick{
+    margin-right: 100px;
+    
+    
+}
+.acct{
+    margin-right: 10px;
+}
+#quickand{
+    margin-bottom: 10px;
+    margin-right: 50px;
+    text-align: center;
+
+}
+.firstname{
+    margin-left: 6px;
+    width: 180px;
+    padding: 4px;
+}
+#quickanc{
+    margin-right: 20px;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bolder;
+}
+#email{
+    padding: 4px;
+    text-align: left;
+    margin-right: spx;
+    padding-right: 223px;
+}
+.pass{
+    padding: 5px;
+    padding-right: 223px;
+    text-align: left;
+    margin-right: px;
+}
+#day{
+    margin-left: 10px;
+    height: 30px;
+    display: flex;
+    justify-content: space-around;
+    width: 200px;
+    
+}
+#month{    
+    height: 30px;
+    display: flex;
+    justify-content: space-around;
+    width: 200px;
+margin-left: 20px;
+}
+#year{
+    height: 30px;
+    display: flex;
+    justify-content: space-around;
+    width: 200px;
+margin-left: 20px;
+    
+}
+.dob{
+    display: flex;
+justify-content: space-evenly;
+padding-right: 610px;
+}
+.dateb{
+padding-left: px;
+}
+.spanq{
+    background-color: rgb(49, 28, 12);
+    color: white;
+    border-radius: 50px;
+    width: 100px;
+    height: 100px;
+    
+}
+.femalediv{
+margin-left: 590px;
+width: 100px;
+background-color: white;
+border-color: black;
+}
+#Female{
+width: 100px;
+color: rgb(87, 75, 75);
+border-color: black;
+margin-bottom: 100px;
+margin-left: 100px;
+}
+
+#male{
+
+    margin-left: 70px;
+}
+
+.gender{
+    margin-left: px;
+    margin-top: 10px;
+}
+#Custom{
+    margin-left: 100px;
+}
+.genhr{
+    padding-bottom: 200px;
+    margin-left: px;
+ 
+}
+
+.learnmore{
+margin-left: px;
+font-family: serif;
+font-weight: lighter;
+font-weight: 200;
+font-size: small;
+
+
+}
+a{
+    list-style: none;
+    text-decoration: none;
+}
+.clickmore{
+    margin-left: px;
+    font-family: serif;
+    font-weight: lighter;
+    font-weight: 200;
+    font-size: small;
+    
+
+}
+#signup{
+margin-left: 87px;
+width: 190px;
+padding: 7px;
+font-size: 20px;
+font-weight: bold;
+border-radius: 10px;
+background-color: rgb(28, 141, 0);
+color: white;
+}
+.alr{
+    margin-left: 87px;  
+}
+.divbag{
+    background-color: rgb(235, 241, 246);
+    width: 420px;
+height: 525px;
+    margin: auto;
+}
